@@ -14,8 +14,8 @@ def csv_to_json(csv_file, json_file):
             Слово,Транскрипция,Перевод
             """
             word = row[0]
-            translation = row[1]
-            transcription = row[2]
+            transcription = row[1]
+            translation = row[2]
 
             # записываем новое слово
             data[word] = {'translation': translation,
