@@ -1,5 +1,602 @@
 {
-    "你好": "Привет",
-    "我": "Я",
-    "你": "Ты"
+    "爱": {
+        "translation": "ài",
+        "transcription": "любить; любовь; любимый"
+    },
+    "八": {
+        "translation": "bā",
+        "transcription": "восемь; восьмой"
+    },
+    "爸爸": {
+        "translation": "bàba",
+        "transcription": "папа, тятя"
+    },
+    "杯子": {
+        "translation": "bēizi",
+        "transcription": "стакан; кружка; бокал; рюмка"
+    },
+    "北京": {
+        "translation": "běijīng",
+        "transcription": "Пекин"
+    },
+    "本": {
+        "translation": "běn",
+        "transcription": "счётное слово для растений, цветов"
+    },
+    "不客气": {
+        "translation": "bùkěqi",
+        "transcription": "не церемоньтесь!; не стесняйтесь!"
+    },
+    "不": {
+        "translation": "bù",
+        "transcription": "отрицательная частица не"
+    },
+    "菜": {
+        "translation": "cài",
+        "transcription": "овощи; блюдо; пища; стол"
+    },
+    "茶": {
+        "translation": "chá",
+        "transcription": "чай"
+    },
+    "吃": {
+        "translation": "chī",
+        "transcription": "есть, кушать"
+    },
+    "出租车": {
+        "translation": "chūzūchē",
+        "transcription": "такси"
+    },
+    "打电话": {
+        "translation": "dǎ diànhuà",
+        "transcription": "звонить по телефону"
+    },
+    "大": {
+        "translation": "dà",
+        "transcription": "большой; крупный; великий; огромный"
+    },
+    "的": {
+        "translation": "de",
+        "transcription": "суффикс прилагательного; суффикс притяжательности"
+    },
+    "点": {
+        "translation": "diǎn",
+        "transcription": "капля; немножко, чуточку; точка; запятая"
+    },
+    "电脑": {
+        "translation": "diànnǎo",
+        "transcription": "компьютер"
+    },
+    "电视": {
+        "translation": "diànshì",
+        "transcription": "телевидение; телевизионный"
+    },
+    "电影": {
+        "translation": "diànyǐng",
+        "transcription": "кино"
+    },
+    "东西": {
+        "translation": "dōngxi",
+        "transcription": "вещь; предмет"
+    },
+    "都": {
+        "translation": "dōu",
+        "transcription": "все; всё"
+    },
+    "读": {
+        "translation": "dú",
+        "transcription": "читать; зачитывать"
+    },
+    "对不起": {
+        "translation": "duìbuqǐ",
+        "transcription": "виноват!, простите!, извините!"
+    },
+    "多": {
+        "translation": "duō",
+        "transcription": "много; многочисленный; свыше"
+    },
+    "多少": {
+        "translation": "duōshao",
+        "transcription": "сколько?"
+    },
+    "儿子": {
+        "translation": "érzi",
+        "transcription": "сын"
+    },
+    "二": {
+        "translation": "èr",
+        "transcription": "два; второй"
+    },
+    "饭馆": {
+        "translation": "fànguǎn",
+        "transcription": "ресторан; столовая"
+    },
+    "飞机": {
+        "translation": "fēijī",
+        "transcription": "самолёт"
+    },
+    "分钟": {
+        "translation": "fēnzhōng",
+        "transcription": "минута"
+    },
+    "高兴": {
+        "translation": "gāoxìng",
+        "transcription": "радоваться; радостный"
+    },
+    "个": {
+        "translation": "gè",
+        "transcription": "универсальное сч. сл.; отдельный; индивидуальный"
+    },
+    "工作": {
+        "translation": "gōngzuò",
+        "transcription": "работать; работа"
+    },
+    "狗": {
+        "translation": "gǒu",
+        "transcription": "собака; собачий"
+    },
+    "汉语": {
+        "translation": "hànyǔ",
+        "transcription": "китайский язык"
+    },
+    "好": {
+        "translation": "hǎo",
+        "transcription": "хороший; хорошо; приятный; удобный"
+    },
+    "喝": {
+        "translation": "hē",
+        "transcription": "пить"
+    },
+    "和": {
+        "translation": "hé",
+        "transcription": "мирный; союз и; предлог с"
+    },
+    "很": {
+        "translation": "hěn",
+        "transcription": "очень; весьма"
+    },
+    "后面": {
+        "translation": "hòumiàn",
+        "transcription": "задняя сторона; зад; позади, сзади; задний"
+    },
+    "回": {
+        "translation": "huí",
+        "transcription": "возвращаться"
+    },
+    "会": {
+        "translation": "huì",
+        "transcription": "уметь; мочь; владеть; собрание; заседание"
+    },
+    "火车站": {
+        "translation": "huǒchēzhàn",
+        "transcription": "вокзал; железнодорожная станция"
+    },
+    "几": {
+        "translation": "jǐ",
+        "transcription": "сколько?; несколько; немного"
+    },
+    "家": {
+        "translation": "jiā",
+        "transcription": "семья; семейство; дом; домашний"
+    },
+    "叫": {
+        "translation": "jiào",
+        "transcription": "кричать; крик; звать; подзывать; вызывать"
+    },
+    "今天": {
+        "translation": "jīntiān",
+        "transcription": "сегодня; нынешний день"
+    },
+    "九": {
+        "translation": "jiǔ",
+        "transcription": "девять; девятый"
+    },
+    "开": {
+        "translation": "kāi",
+        "transcription": "открывать; управлять; вести; включать"
+    },
+    "看": {
+        "translation": "kàn",
+        "transcription": "смотреть; читать (про себя); навестить"
+    },
+    "看见": {
+        "translation": "kànjiàn",
+        "transcription": "увидеть; видеть"
+    },
+    "块": {
+        "translation": "kuài",
+        "transcription": "сч. сл. для основных денежных единиц; кусок; глыба"
+    },
+    "来": {
+        "translation": "lái",
+        "transcription": "приходить; прибывать; приезжать"
+    },
+    "老师": {
+        "translation": "lǎoshī",
+        "transcription": "учитель; преподаватель"
+    },
+    "了": {
+        "translation": "le",
+        "transcription": "глагольный суффикс завершенности действия"
+    },
+    "冷": {
+        "translation": "lěng",
+        "transcription": "холодный; холодно; холод"
+    },
+    "里": {
+        "translation": "lǐ",
+        "transcription": "внутри; в"
+    },
+    "零": {
+        "translation": "líng",
+        "transcription": "ноль; нолевой"
+    },
+    "六": {
+        "translation": "liù",
+        "transcription": "шесть; шестой"
+    },
+    "妈妈": {
+        "translation": "māma",
+        "transcription": "мама"
+    },
+    "吗": {
+        "translation": "ma",
+        "transcription": "фразовая частица, выражающая вопрос"
+    },
+    "买": {
+        "translation": "mǎi",
+        "transcription": "покупать, приобретать"
+    },
+    "猫": {
+        "translation": "māo",
+        "transcription": "кошка"
+    },
+    "没": {
+        "translation": "méi",
+        "transcription": "отрицательная частица"
+    },
+    "没关系": {
+        "translation": "méi guānxi",
+        "transcription": "неважно; ничего; пустяки"
+    },
+    "米饭": {
+        "translation": "mǐfàn",
+        "transcription": "варёный рис"
+    },
+    "明天": {
+        "translation": "míngtiān",
+        "transcription": "завтра; завтрашний день"
+    },
+    "名字": {
+        "translation": "míngzi",
+        "transcription": "имя (человека); кличка (животного)"
+    },
+    "哪": {
+        "translation": "nǎ",
+        "transcription": "какой; который"
+    },
+    "那": {
+        "translation": "nà",
+        "transcription": "тот; то; тогда, в таком случае"
+    },
+    "呢": {
+        "translation": "ne",
+        "transcription": "фразовая частица, выражающая вопрос же?"
+    },
+    "能": {
+        "translation": "néng",
+        "transcription": "способный; способность"
+    },
+    "你": {
+        "translation": "nǐ",
+        "transcription": "ты; вы; твой; ваш"
+    },
+    "年": {
+        "translation": "nián",
+        "transcription": "год; годы"
+    },
+    "女儿": {
+        "translation": "nǚ’er",
+        "transcription": "дочь"
+    },
+    "朋友": {
+        "translation": "péngyou",
+        "transcription": "друг, товарищ; друзья"
+    },
+    "漂亮": {
+        "translation": "piàoliang",
+        "transcription": "красивый"
+    },
+    "苹果": {
+        "translation": "píngguǒ",
+        "transcription": "яблоко"
+    },
+    "七": {
+        "translation": "qī",
+        "transcription": "семь; седьмой"
+    },
+    "钱": {
+        "translation": "qián",
+        "transcription": "деньги"
+    },
+    "前面": {
+        "translation": "qiánmian",
+        "transcription": "перед; передний; впереди; перёд; выше; ранее"
+    },
+    "请": {
+        "translation": "qǐng",
+        "transcription": "просить; пожалуйста!; приглашать"
+    },
+    "去": {
+        "translation": "qù",
+        "transcription": "уходить; отправляться; идти"
+    },
+    "热": {
+        "translation": "rè",
+        "transcription": "горячий; увлечение; мода"
+    },
+    "人": {
+        "translation": "rén",
+        "transcription": "человек; люди"
+    },
+    "认识": {
+        "translation": "rènshi",
+        "transcription": "знать; быть знакомым; знакомиться"
+    },
+    "日": {
+        "translation": "rì",
+        "transcription": "солнце; солнечный; день; число, дата"
+    },
+    "三": {
+        "translation": "sān",
+        "transcription": "три; третий"
+    },
+    "商店": {
+        "translation": "shāngdiàn",
+        "transcription": "магазин"
+    },
+    "上": {
+        "translation": "shàng",
+        "transcription": "верх; прошлый; на; в"
+    },
+    "上午": {
+        "translation": "shàngwǔ",
+        "transcription": "до полудня"
+    },
+    "少": {
+        "translation": "shǎo",
+        "transcription": "мало; немного; редко"
+    },
+    "谁": {
+        "translation": "shuí, shéi",
+        "transcription": "кто; кого; чей"
+    },
+    "什么": {
+        "translation": "shénme",
+        "transcription": "что?, что такое?; какой?; как?"
+    },
+    "十": {
+        "translation": "shí",
+        "transcription": "десять; десятый"
+    },
+    "时候": {
+        "translation": "shíhou",
+        "transcription": "время, промежуток; времени; во время"
+    },
+    "是": {
+        "translation": "shì",
+        "transcription": "есть; быть; являться; да; правда"
+    },
+    "书": {
+        "translation": "shū",
+        "transcription": "книга"
+    },
+    "水": {
+        "translation": "shuǐ",
+        "transcription": "вода; водяной; гидро-"
+    },
+    "水果": {
+        "translation": "shuǐguǒ",
+        "transcription": "фрукты; фруктовый"
+    },
+    "睡觉": {
+        "translation": "shuìjiào",
+        "transcription": "спать"
+    },
+    "说话": {
+        "translation": "shuōhuà",
+        "transcription": "говорить; разговаривать"
+    },
+    "四": {
+        "translation": "sì",
+        "transcription": "четыре; четвёртый"
+    },
+    "岁": {
+        "translation": "suì",
+        "transcription": "годы; лета"
+    },
+    "他": {
+        "translation": "tā",
+        "transcription": "он; его"
+    },
+    "她": {
+        "translation": "tā",
+        "transcription": "она; её"
+    },
+    "太": {
+        "translation": "tài",
+        "transcription": "слишком, чересчур; чрезвычайно"
+    },
+    "天气": {
+        "translation": "tiānqì",
+        "transcription": "погода; климат"
+    },
+    "听": {
+        "translation": "tīng",
+        "transcription": "слушать"
+    },
+    "同学": {
+        "translation": "tóngxué",
+        "transcription": "соученик, однокашник"
+    },
+    "喂": {
+        "translation": "wèi",
+        "transcription": "кормить; алло!; эй!"
+    },
+    "我": {
+        "translation": "wǒ",
+        "transcription": "я; мой; наш"
+    },
+    "我们": {
+        "translation": "wǒmen",
+        "transcription": "мы; наш"
+    },
+    "五": {
+        "translation": "wǔ",
+        "transcription": "пять; пятый"
+    },
+    "喜欢": {
+        "translation": "xǐhuan",
+        "transcription": "нравиться; любить"
+    },
+    "下": {
+        "translation": "xià",
+        "transcription": "нижний; низ; послелог под, при; следующий"
+    },
+    "下午": {
+        "translation": "xiàwǔ",
+        "transcription": "вторая половина дня, после полудня"
+    },
+    "下雨": {
+        "translation": "xiàyǔ",
+        "transcription": "идёт дождь; стоит дождливая погода"
+    },
+    "先生": {
+        "translation": "xiānsheng",
+        "transcription": "господин; мистер"
+    },
+    "现在": {
+        "translation": "xiànzài",
+        "transcription": "теперь; сейчас; ныне"
+    },
+    "想": {
+        "translation": "xiǎng",
+        "transcription": "думать; собираться; хотеть"
+    },
+    "小": {
+        "translation": "xiǎo",
+        "transcription": "маленький; мелкий; малый; молодой; младший"
+    },
+    "小姐": {
+        "translation": "xiǎojie",
+        "transcription": "барышня; мисс"
+    },
+    "些": {
+        "translation": "xiē",
+        "transcription": "немного, несколько"
+    },
+    "写": {
+        "translation": "xiě",
+        "transcription": "писать; записывать; описывать"
+    },
+    "谢谢": {
+        "translation": "xièxie",
+        "transcription": "спасибо, благодарю; благодарить"
+    },
+    "星期": {
+        "translation": "xīngqī",
+        "transcription": "неделя"
+    },
+    "学生": {
+        "translation": "xuésheng",
+        "transcription": "студент; ученик; учащийся"
+    },
+    "学习": {
+        "translation": "xuéxí",
+        "transcription": "учиться; обучаться; обучение, учёба"
+    },
+    "学校": {
+        "translation": "xuéxiào",
+        "transcription": "школа; учебное заведение; училище"
+    },
+    "一": {
+        "translation": "yī",
+        "transcription": "один; единица; первый"
+    },
+    "衣服": {
+        "translation": "yīfu",
+        "transcription": "одежда; платье; костюм"
+    },
+    "医生": {
+        "translation": "yīsheng",
+        "transcription": "врач, доктор"
+    },
+    "医院": {
+        "translation": "yīyuàn",
+        "transcription": "больница; госпиталь"
+    },
+    "椅子": {
+        "translation": "yǐzi",
+        "transcription": "стул"
+    },
+    "有": {
+        "translation": "yǒu",
+        "transcription": "иметь(ся); иметь в наличии; обладать; есть"
+    },
+    "月": {
+        "translation": "yuè",
+        "transcription": "луна; месяц"
+    },
+    "在": {
+        "translation": "zài",
+        "transcription": "быть в живых; существовать; находиться; в; на"
+    },
+    "再见": {
+        "translation": "zàijiàn",
+        "transcription": "до свидания"
+    },
+    "怎么": {
+        "translation": "zěnme",
+        "transcription": "как?, каким образом?"
+    },
+    "怎么样": {
+        "translation": "zěnmeyàng",
+        "transcription": "как, каким образом; каков"
+    },
+    "这": {
+        "translation": "zhè",
+        "transcription": "это, этот"
+    },
+    "中国": {
+        "translation": "zhōngguó",
+        "transcription": "Китай; китайский"
+    },
+    "中午": {
+        "translation": "zhōngwǔ",
+        "transcription": "полдень"
+    },
+    "住": {
+        "translation": "zhù",
+        "transcription": "жить, проживать"
+    },
+    "桌子": {
+        "translation": "zhuōzi",
+        "transcription": "стол"
+    },
+    "字": {
+        "translation": "zì",
+        "transcription": "иероглиф; слово"
+    },
+    "昨天": {
+        "translation": "zuótiān",
+        "transcription": "вчера; вчерашний день"
+    },
+    "坐": {
+        "translation": "zuò",
+        "transcription": "сидеть; садиться; ехать на [в]"
+    },
+    "做": {
+        "translation": "zuò",
+        "transcription": "делать; изготавливать; быть [работать] кем-либо; писать"
+    }
 }
